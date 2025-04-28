@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom font */
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@400;600;800&display=swap');
