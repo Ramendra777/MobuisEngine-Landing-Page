@@ -32,7 +32,7 @@ const ContactUs = () => {
       <div className="flex flex-col md:flex-row justify-between items-start gap-10 px-8 py-12 max-w-6xl mx-auto text-center md:text-left">
         {/* Logo + Address */}
         <div className="flex flex-col items-center md:items-start gap-4">
-          <img src="/mobius-logo.svg" alt="MobiusEngine" className="w-36" />
+          <img src="/logo.svg" alt="MobuisEngine" className="w-36 hover:bg-primary hover:text-white transition border-primary" />
           <div className="text-p2 font-dm">
             <p className="font-bold">Address</p>
             <p>1875 Mission St Ste 103 #450<br />San Francisco, CA 94103</p>
